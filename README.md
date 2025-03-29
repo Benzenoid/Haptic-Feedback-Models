@@ -2,6 +2,10 @@
 
 This repository contains a Jupyter notebook implementing physical models (Kelvin-Voigt and Hertz-Crossley) and machine learning approaches to predict force feedback in liver tissue simulation.
 
+## Data Set used
+
+Kagglke Link : https://www.kaggle.com/datasets/benzenoid/haptic-feedback-liver
+
 ## Introduction
 
 This project focuses on modeling haptic feedback for liver tissue simulation using both physical models and machine learning techniques. The work aims to accurately predict force feedback responses that can be used in medical training simulators and virtual surgery environments.
@@ -78,5 +82,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - rishabhbhardwaj_me21b15_57@dtu.ac.in
+Mail ID - rishabhbhardwaj_me21b15_57@dtu.ac.in
 
