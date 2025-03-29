@@ -80,4 +80,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - rishabhbhardwaj_me21b15_57@dtu.ac.in
 
-Project Link: https://github.com/yourusername/haptic-feedback-modeling
